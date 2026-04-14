@@ -15,4 +15,5 @@ An outdoor soilmoisture sensor with capabilities of _Matter_
 # Discussion
 - Software
 - - Tasmota
+  - ESPhome
   - Self developed
